@@ -23,11 +23,13 @@
     margin: 0;
     list-style: none;
   }
-  
+  h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+  }
   .link {
     text-decoration: none;
   }
-  /* заголовки які не будуть відображаться */
+
   .hidden-title {
     position: absolute;
     white-space: nowrap;
