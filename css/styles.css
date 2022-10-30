@@ -60,7 +60,8 @@
     padding-top: 0;
     padding-bottom: 0;
   }
-  /*----- header----- */
+
+  /*----- HEADER----- */
   .header {
     border-bottom: 1px solid var(--border-color-header);
   }
@@ -133,7 +134,7 @@
     align-items: center;
   }
   
-  /*----- section hero----- */
+  /*----- SECTION HERO----- */
   .hero {
     padding-top: 195px;
     padding-bottom: 200px;
@@ -175,9 +176,8 @@
   .hero .button:active {
     background-color: var(--accent-button);
   }
-  /*----- section hero----- */
   
-  /*----- section features----- */
+  /*----- SECTION FEATURES----- */
   .section-features {
   }
   .features-list {
@@ -202,9 +202,8 @@
     margin-bottom: 0;
     line-height: 1.7;
   }
-  /*----- section features----- */
   
-  /*-----section work----- */
+  /*-----SECTION WORK----- */
   .section-work {
     padding-top: 0;
   }
@@ -227,9 +226,8 @@
   .work-card {
     display: block;
   }
-  /*-----section work----- */
-  
-  /*-----section team----- */
+
+  /*-----SECTION TEAM----- */
   .section-team {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -359,9 +357,8 @@
     text-decoration: none;
     color: inherit;
   }
-  /*------sechion-portfolio------*/
   
-  /*----- footer----- */
+  /*----- FOOTER----- */
   .footer {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -399,5 +396,5 @@
   .footer-adress .link:focus {
     color: var(--accent-color);
   }
-  /*----- footer----- */
+
   
