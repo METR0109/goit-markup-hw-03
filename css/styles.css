@@ -74,8 +74,8 @@
     line-height: 1.19;
   }
   .header-logo.link {
-    margin-top: 24px;
-    margin-bottom: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
   
     color: var(--logo-text-color);
   }
@@ -94,8 +94,8 @@
   }
   .nav-link {
     display: block;
-    margin-top: 32px;
-    margin-bottom: 31px;
+    padding-top: 32px;
+    padding-bottom: 31px;
   
     color: var(--secondary-text-color);
   }
@@ -321,6 +321,9 @@
   .flex-element {
     width: 370px;
     padding: 20px 24px;
+    border-left: 1px solid var(--border-color-portfolio);
+    border-right: 1px solid var(--border-color-portfolio);
+    border-bottom: 1px solid var(--border-color-portfolio);
   }
   .portfolio-item {
     width: 370px;
